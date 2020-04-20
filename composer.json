@@ -1,0 +1,13 @@
+{
+    "require": {
+        "intervention/image": "^2.5",
+      "ext-mysqli": "*",
+      "ext-intl": "*"
+    },
+
+    "autoload": {
+        "psr4": {
+            "App\\": "code/"
+        }
+    }
+}
